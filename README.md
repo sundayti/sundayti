@@ -27,6 +27,7 @@ Welcome to my GitHub profile! I'm passionate about **development, automation, an
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sundayti&show_icons=true&theme=dark&hide_border=true)
+![LeetCode Stats](https://leetcard.jacoblin.cool/sundayti?theme=light&font=Karma&ext=contest&theme=dark)
 
 ## 📫 Connect with Me
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sundayti)
