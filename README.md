@@ -2,11 +2,6 @@
 
 Welcome to my GitHub profile! I'm passionate about **development, automation, and creating efficient solutions**. Here, you'll find some of my projects, open-source contributions, and experiments with new technologies.
 
-## 🚀 About Me
-- 💻 I specialize in **iOS development**
-- 🎓 I create courses and services for students participating in academic competitions
-- 🌍 Always exploring new technologies to simplify complex tasks
-
 ## 🛠️ Tech Stack
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
